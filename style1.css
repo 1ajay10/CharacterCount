@@ -1,0 +1,41 @@
+body {
+  background: linear-gradient(-45deg, #159957, #155799);
+}
+h1 {
+  text-align: center;
+  color: black;
+  font-family: monospace;
+  font-size: 40px;
+  margin-top: 250px;
+}
+input {
+  margin-top: 100px;
+  margin: auto auto;
+  width: 1000px;
+  height: 40px;
+  display: block;
+  font-size: 20px;
+}
+#btn {
+  width: 300px;
+  height: 50px;
+  color: #fff;
+  background-color: black;
+  border-radius: 20px;
+  margin-top: 60px;
+  display: block;
+  margin: auto auto;
+}
+#btn:hover {
+  background-color: #FFEB3B;
+  color: black;
+}
+
+#output {
+  margin: auto auto;
+
+  margin-top: 50px;
+  font-size: 40px;
+  text-align: center;
+  margin-bottom: 30px;
+}
